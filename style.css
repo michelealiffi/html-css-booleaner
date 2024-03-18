@@ -20,6 +20,20 @@ h2 {
     font-size: 15px;
 }
 
+ul {
+    padding-top: 25px;
+    padding-left: 15px;
+}
+
+table {
+    border: none;
+}
+
+th {
+    padding-right: 120px;
+    text-align: left;
+}
+
 .logo {
     margin-top: 35px;
     margin-left: 10px;
@@ -34,4 +48,25 @@ h2 {
     color: grey;
     font-size: 10px;
     padding-bottom: 20px;
+}
+
+.img-desc {
+    font-size: 10px;
+}
+
+.desc {
+    padding-top: 20px;
+}
+
+.make-evident {
+    background-color: yellow;
+}
+
+.table-1 {
+    background-color: dodgerblue;
+    color: white;
+}
+
+.table-2 {
+    background-color: rgb(78, 230, 255);
 }
