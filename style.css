@@ -26,12 +26,17 @@ ul {
 }
 
 table {
-    border: none;
+    border-inline-color: transparent;
 }
 
 th {
     padding-right: 120px;
     text-align: left;
+}
+
+footer {
+    padding-top: 10px;
+    padding-left: 5px;
 }
 
 .logo {
@@ -69,4 +74,35 @@ th {
 
 .table-2 {
     background-color: rgb(78, 230, 255);
+}
+
+.foot-1 {
+    color: grey;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+
+.foot-img-1 {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding-bottom: 10px;
+    background-image: url(img/monitor.jpg);
+    background-size: 200px;
+    width: 180px;
+    height: 150px;
+    background-repeat: no-repeat;
+}
+
+.foot-img-2 {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding-bottom: 10px;
+    background-image: url(img/graph.jpg);
+    background-size: 200px;
+    width: 180px;
+    height: 150px;
+    background-repeat: no-repeat;
 }
