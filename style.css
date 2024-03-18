@@ -10,8 +10,28 @@ header {
     background-size: 350px;
 }
 
+main {
+    padding-top: 10px;
+    padding-left: 5px;
+}
+
+h2 {
+    color: grey;
+    font-size: 15px;
+}
+
 .logo {
     margin-top: 35px;
     margin-left: 10px;
     width: 200px;
+}
+
+.color-h2 {
+    color: dodgerblue;
+}
+
+.date-h2 {
+    color: grey;
+    font-size: 10px;
+    padding-bottom: 20px;
 }
